@@ -467,4 +467,6 @@ namespace modules {
 
     //% fixedInstance whenUsed
     export const led1 = new LedClient("led 1")
+
+    export const led2 = new LedClient("led 2")
 }

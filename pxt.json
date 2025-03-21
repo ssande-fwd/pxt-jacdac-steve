@@ -4,7 +4,8 @@
     "description": "Jacdac for MakeCode",
     "dependencies": {
         "core": "*",
-        "settings": "*"
+        "settings": "*",
+        "led": "github:ssande-fwd/pxt-jacdac-steve/led#v1.9.30"
     },
     "files": [
         "README.md",
